@@ -15,39 +15,11 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 M.S. student in **Cybersecurity** at Iowa State University  
+- 🎓 M.S. student in **Cybersecurity**  
 - 🧠 Currently learning **Python fundamentals** and **LeetCode DSA**  
 - 🕵️‍♂️ Interested in **phishing detection** and **security-focused projects**  
 - 💬 Ask me about **cybersecurity basics**, **phishing detection**, and **beginner-friendly project roadmaps**  
 - 📫 How to reach me: **abbycode07@gmail.com**
-
----
-
-## 🛠 How I Use These Skills (More Detailed)
-
-### Programming & Scripting
-- **Python** – Used in coursework and personal projects to automate small tasks (like parsing log files, cleaning data, or checking URLs for phishing-related patterns) and to build simple backend scripts for security experiments.
-- **C/C++** – Practiced in academic assignments to understand low-level memory concepts, pointers, and how vulnerabilities (like buffer overflows) can occur at the systems level.
-- **Java & JavaScript** – Used for basic object-oriented programming exercises and simple web frontends, helping me understand how input validation and secure coding affect web application security.
-
-### Backend & Security
-- **Django / Node.js** – Used to build small web applications and APIs in projects, including authentication flows, basic role-based access, and secure handling of user inputs.
-- **Linux** – Worked extensively in lab environments (Kali/Ubuntu) for cybersecurity tasks such as running nmap, Wireshark, and other security tools, managing users/permissions, and hardening basic configurations.
-- **Nginx** – Used in simple experiments to understand reverse proxying and web server configuration, and how misconfigurations can impact security.
-
-### Frontend Development
-- **HTML, CSS, JavaScript** – Used to create simple, responsive web pages and dashboards, including basic UI elements for security-related tools (e.g., forms to submit URLs for phishing checks).
-
-### Databases
-- **MySQL / SQLite / MongoDB** – Used to design and query small databases for storing user accounts, logs, and project data (such as URL metadata or experiment results) in academic and side projects.
-
-### Cloud & DevOps
-- **AWS** – Used in student projects to explore deploying simple applications to the cloud, understanding IAM basics, and configuring services with security in mind.
-- **Docker & Kubernetes** – Experimented with containerizing small apps and understanding how containers are deployed and managed, which is important for modern secure deployments and isolation.
-
-### AI, ML & Tools
-- **TensorFlow / Pandas** – Used in basic machine learning and data analysis coursework, including experimenting with datasets to understand how ML models can support tasks like classification (e.g., potential phishing vs. benign).
-- **Git & GitHub** – Used for version control on projects: creating branches, making commits, writing clear commit messages, and collaborating through pull requests.
 
 ---
 
@@ -108,24 +80,24 @@
 <p align="left"><strong>Cloud & DevOps</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
 </div>
 
+
 ###
 
 <p align="left"><strong>AI, ML & Tools</strong></p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
 </div>
 
 ###
@@ -136,6 +108,7 @@
   <a href="mailto:abbycode07@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+  <!-- Update this with the correct LinkedIn URL if needed -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -146,3 +119,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Abby879/Abby879/output/snake.svg" alt="Snake animation" />
+
+###
