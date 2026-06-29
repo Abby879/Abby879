@@ -15,11 +15,10 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 M.S. student in **Cybersecurity**  
-- 🧠 Currently learning **Python fundamentals** and **LeetCode DSA**  
+- 🎓 M.S. student in **Cybersecurity**   
 - 🕵️‍♂️ Interested in **phishing detection** and **security-focused projects**  
 - 💬 Ask me about **cybersecurity basics**, **phishing detection**, and **beginner-friendly project roadmaps**  
-- 📫 How to reach me: **abbycode07@gmail.com**
+- 📫 How to reach me: **raghuramanabhishek@gmail.com**
 
 ---
 
@@ -104,11 +103,11 @@
 <p align="left"><strong>Social</strong></p>
 
 <div align="left">
-  <a href="mailto:abbycode07@gmail.com" target="_blank">
+  <a href="mailto:raghuramanabhishek@gmail.com" target="raghuramanabhishek@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <!-- Update this with the correct LinkedIn URL if needed -->
-  <a href="#" target="_blank">
+  
+  <a href="#" target="www.linkedin.com/in/abhishek-raghuraman1">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
